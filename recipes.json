@@ -1,0 +1,242 @@
+[
+    {
+        "id": "ck3087qmshlkjif9q330",
+        "name": "Homemade Pizza",
+        "tags": [
+            "italian",
+            "pizza",
+            "dinner"
+        ],
+        "ingredients": [
+            "1 1/2 cups (355ml) warm water (105F-115F)",
+            "1 package (2 1/4 teaspoons) of active dry yeast",
+            "3 3/4 cups (490 g) bread flour",
+            "feta cheese, firm mozzarella cheese, grated"
+        ],
+        "instructions": [
+            "Prepare the pizza dough.",
+            "Spread pizza sauce over the dough.",
+            "Add fresh mozzarella cheese and your favorite toppings.",
+            "Bake in a preheated oven until the crust is golden and the cheese is bubbly."
+        ],
+        "publishedAt": "2023-09-17T01:08:07.606316+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q331",
+        "name": "Spaghetti Carbonara",
+        "tags": [
+            "italian",
+            "pasta",
+            "dinner"
+        ],
+        "ingredients": [
+            "8 oz (225g) spaghetti",
+            "2 large eggs",
+            "1 cup (100g) grated Pecorino Romano cheese",
+            "4 oz (115g) pancetta, diced"
+        ],
+        "instructions": [
+            "Cook spaghetti until al dente.",
+            "In a bowl, whisk eggs and cheese together.",
+            "In a skillet, cook pancetta until crispy.",
+            "Toss cooked spaghetti with pancetta and egg mixture."
+        ],
+        "publishedAt": "2023-09-18T08:15:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q332",
+        "name": "Caprese Salad",
+        "tags": [
+            "italian",
+            "salad",
+            "appetizer"
+        ],
+        "ingredients": [
+            "4 ripe tomatoes",
+            "8 oz (225g) fresh mozzarella cheese",
+            "1/4 cup (60ml) extra-virgin olive oil",
+            "Fresh basil leaves",
+            "Balsamic glaze",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Slice tomatoes and mozzarella cheese.",
+            "Arrange them on a plate, alternating slices.",
+            "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+            "Drizzle with olive oil and balsamic glaze. Season with salt and pepper."
+        ],
+        "publishedAt": "2023-09-19T12:30:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q333",
+        "name": "Pasta Primavera",
+        "tags": [
+            "italian",
+            "pasta",
+            "dinner",
+            "vegetarian"
+        ],
+        "ingredients": [
+            "8 oz (225g) penne pasta",
+            "2 cups (240g) mixed vegetables (e.g., bell peppers, broccoli, carrots)",
+            "2 cloves garlic, minced",
+            "1/4 cup (60ml) heavy cream",
+            "Grated Parmesan cheese",
+            "Fresh parsley for garnish",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Cook penne pasta according to package instructions.",
+            "In a skillet, sauté minced garlic and mixed vegetables until tender.",
+            "Stir in heavy cream and cook until heated through.",
+            "Toss cooked pasta with the vegetable and cream mixture. Season with salt and pepper.",
+            "Serve garnished with grated Parmesan cheese and fresh parsley."
+        ],
+        "publishedAt": "2023-09-20T18:45:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q334",
+        "name": "Tiramisu",
+        "tags": [
+            "italian",
+            "dessert"
+        ],
+        "ingredients": [
+            "1 cup (240ml) strong brewed coffee, cooled",
+            "3 large egg yolks",
+            "1/2 cup (100g) granulated sugar",
+            "8 oz (225g) mascarpone cheese",
+            "Ladyfinger cookies",
+            "Cocoa powder for dusting"
+        ],
+        "instructions": [
+            "In a bowl, whisk egg yolks and sugar until pale and creamy.",
+            "Fold in mascarpone cheese until well combined.",
+            "Quickly dip ladyfinger cookies into brewed coffee and arrange them in a serving dish.",
+            "Spread a layer of the mascarpone mixture over the cookies.",
+            "Repeat layers and finish with a dusting of cocoa powder.",
+            "Refrigerate for a few hours before serving."
+        ],
+        "publishedAt": "2023-09-21T14:20:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q335",
+        "name": "Risotto alla Milanese",
+        "tags": [
+            "italian",
+            "risotto",
+            "dinner"
+        ],
+        "ingredients": [
+            "1 1/2 cups (360ml) Arborio rice",
+            "4 cups (960ml) chicken or vegetable broth",
+            "1 small onion, finely chopped",
+            "2 tablespoons butter",
+            "2 tablespoons olive oil",
+            "1/2 cup (120ml) dry white wine",
+            "1/2 teaspoon saffron threads",
+            "Grated Parmesan cheese",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "In a saucepan, heat the broth and saffron over low heat.",
+            "In a separate large skillet, heat olive oil and butter over medium heat.",
+            "Add chopped onion and sauté until translucent.",
+            "Add Arborio rice and stir to coat with oil and butter.",
+            "Pour in white wine and cook until mostly absorbed.",
+            "Begin adding the saffron-infused broth, one ladle at a time, stirring constantly until absorbed before adding more.",
+            "Continue until the rice is creamy and cooked al dente. Season with salt and pepper.",
+            "Serve with grated Parmesan cheese."
+        ],
+        "publishedAt": "2023-09-22T20:10:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q336",
+        "name": "Minestrone Soup",
+        "tags": [
+            "italian",
+            "soup",
+            "vegetarian"
+        ],
+        "ingredients": [
+            "1/2 cup (120ml) olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 carrots, diced",
+            "2 celery stalks, diced",
+            "1 zucchini, diced",
+            "1 cup (240ml) canned crushed tomatoes",
+            "1 cup (200g) cooked cannellini beans",
+            "4 cups (960ml) vegetable broth",
+            "1 cup (120g) small pasta (e.g., ditalini or macaroni)",
+            "Fresh basil leaves",
+            "Grated Parmesan cheese",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "In a large pot, heat olive oil over medium heat.",
+            "Add chopped onion, garlic, carrots, celery, and zucchini. Sauté until softened.",
+            "Stir in crushed tomatoes and cooked cannellini beans.",
+            "Pour in vegetable broth and bring to a boil.",
+            "Add small pasta and cook until al dente.",
+            "Season with salt and pepper.",
+            "Serve with fresh basil leaves and grated Parmesan cheese."
+        ],
+        "publishedAt": "2023-09-23T12:45:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q337",
+        "name": "Chicken Piccata",
+        "tags": [
+            "italian",
+            "chicken",
+            "dinner"
+        ],
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/2 cup (120ml) chicken broth",
+            "1/4 cup (60ml) fresh lemon juice",
+            "2 tablespoons capers",
+            "1/4 cup (30g) all-purpose flour",
+            "2 tablespoons olive oil",
+            "2 tablespoons butter",
+            "Fresh parsley for garnish",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge them in flour, shaking off excess.",
+            "In a skillet, heat olive oil and butter over medium-high heat.",
+            "Add chicken breasts and cook until golden brown and cooked through.",
+            "Remove chicken and set aside.",
+            "In the same skillet, add chicken broth, lemon juice, and capers. Bring to a boil and cook until reduced.",
+            "Return chicken to the skillet and simmer briefly in the sauce.",
+            "Garnish with fresh parsley and serve."
+        ],
+        "publishedAt": "2023-09-24T19:30:00.000000+05:30"
+    },
+    {
+        "id": "ck3087qmshlkjif9q338",
+        "name": "Bruschetta",
+        "tags": [
+            "italian",
+            "appetizer"
+        ],
+        "ingredients": [
+            "4 ripe tomatoes, diced",
+            "2 cloves garlic, minced",
+            "Fresh basil leaves, chopped",
+            "1/4 cup (60ml) extra-virgin olive oil",
+            "Balsamic glaze",
+            "Salt and pepper to taste",
+            "Baguette or Italian bread, sliced and toasted"
+        ],
+        "instructions": [
+            "In a bowl, combine diced tomatoes, minced garlic, and chopped basil leaves.",
+            "Drizzle with extra-virgin olive oil and season with salt and pepper.",
+            "Spoon the tomato mixture onto toasted slices of baguette or Italian bread.",
+            "Drizzle with balsamic glaze and serve as an appetizer."
+        ],
+        "publishedAt": "2023-09-25T15:55:00.000000+05:30"
+    }
+]
