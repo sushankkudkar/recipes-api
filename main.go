@@ -84,10 +84,39 @@ func UpdateRecipeHandler(c *gin.Context) {
 	c.JSON(http.StatusOK, recipe)
 }
 
+func DeleteRecipeHandler(c *gin.Context) {
+	id := c.Params.ByName("id")
+
+	// Perform the deletion logic here, e.g., by removing the recipe with the given ID from your data store.
+	// After successful deletion, respond with HTTP status OK (200).
+
+	// Check if the recipe with the given ID exists and delete it.
+	found := false
+	for i, recipe := range recipes {
+		if recipe.ID == id {
+			recipes = append(recipes[:i], recipes[i+1:]...)
+			found = true
+			break
+		}
+	}
+
+	if !found {
+		c.JSON(http.StatusNotFound, gin.H{
+			"error": "Recipe not found",
+		})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"message": "Recipe has been deleted",
+	})
+}
+
 func main() {
 	router := gin.Default()
 	router.POST("/recipes", NewRecipeHandler)
 	router.GET("/recipes", ListRecipesHandler)
 	router.PUT("/recipes/:id", UpdateRecipeHandler)
+	router.DELETE("/recipes/:id", DeleteRecipeHandler)
 	router.Run()
 }
